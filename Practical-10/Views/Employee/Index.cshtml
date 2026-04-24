@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Task-1</h2>
+
+<h4>Employee Name: </h4>
+
+@if (ViewBag.EmployeeName == null)
+{
+    <p>No Employee Provided</p>
+}
+else
+{
+    <p>@ViewBag.EmployeeName</p>
+}
