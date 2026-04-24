@@ -1,3 +1,6 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+  </Folder>
   <Project Path="Practical-10/Practical-10.csproj" Id="df3d02b5-f8e4-4c68-9e2e-4141d2a2b75c" />
 </Solution>
